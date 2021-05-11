@@ -1,9 +1,7 @@
 # My Profile
-###### I am a 14 year old kid who got into programming recently and is interested in:
-- HTML
+#### Hello, I have recently gotten interested in
+- Web Development
+- JavaScript
 - Python
-- Css
-- Markdown
 ***
-I do not know that much but enjoy the learning process and I think I am getting better
-but I would still like to improve my knowledge
+I am fairly new to programming and have signed up to [freeCodeCamp](freecodecamp.org). I wish to enhance my skills in the Web Development front
